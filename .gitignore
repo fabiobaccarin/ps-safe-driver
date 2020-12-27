@@ -1,0 +1,9 @@
+*.csv
+*.pkl
+*.pyc
+.vscode
+.DS_Store
+profiles
+models
+data
+__pycache__
